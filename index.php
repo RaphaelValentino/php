@@ -1,7 +1,8 @@
 <?php
 
-echo "OLA MUNDO 456";
+echo "OLA MUNDO 123456";
 
-echo "tchau conflito";
+echo "Bem vindo e tchau conflito";
+
 
 ?>
